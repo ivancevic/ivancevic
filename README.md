@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ivancevic
-- 👀 I’m interested in php, symfony, linux, freebsd
+- 👀 I’m interested in python, django, linux
 - 🌱 I’m currently learning so meny things  
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 How to reach me - email
